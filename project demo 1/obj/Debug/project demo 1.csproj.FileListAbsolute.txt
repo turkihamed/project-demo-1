@@ -1,0 +1,16 @@
+C:\IE322_1845106\project demo 1\project demo 1\bin\Debug\project demo 1.exe.config
+C:\IE322_1845106\project demo 1\project demo 1\bin\Debug\project demo 1.exe
+C:\IE322_1845106\project demo 1\project demo 1\bin\Debug\project demo 1.pdb
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project demo 1.csprojAssemblyReference.cache
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.Form1.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.Properties.Resources.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project demo 1.csproj.GenerateResource.cache
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project demo 1.exe
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project demo 1.pdb
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.Frmradio.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.FrmCheck.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.FrmCombo.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.FrmRandom.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project demo 1.csproj.CoreCompileInputs.cache
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.Frmpic01.resources
+C:\IE322_1845106\project demo 1\project demo 1\obj\Debug\project_demo_1.FrmRandomCombo.resources
